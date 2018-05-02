@@ -1,7 +1,7 @@
 body {
     font: normal 400 14px/2 Helvetica, "Times New Roman", sans-serif;
     color: #343642;
-    background: #343642 url(assets/images/dark_wood.png) repeat;
+    background: #343642 url(../images/dark_wood.png) repeat;
 }
 
 .info-block {
